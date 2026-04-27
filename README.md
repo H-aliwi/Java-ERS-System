@@ -310,12 +310,19 @@ All employee and manager actions, plus:
 
 > Replace the paths below with actual screenshots once the app is running.
 
-| Screen            | Preview                                       |
-| ----------------- | --------------------------------------------- |
-| Login             | ![Login](screenshots/login.png)               |
-| Dashboard         | ![Dashboard](screenshots/dashboard.png)       |
-| Request Form      | ![Request Form](screenshots/request-form.png) |
-| Approval Workflow | ![Approval](screenshots/approval.png)         |
-| Admin Panel       | ![Admin](screenshots/admin.png)               |
+## Screenshots
 
+| Screen | Preview |
+|---|---|
+| Login | ![Login](screenshots/Login.png) |
+| Employee Dashboard | ![Employee Dashboard](screenshots/EmpDashboard%20—%20ERS.png) |
+| Employee — New Request | ![New Request](screenshots/EMP-%20New%20Request%20—%20ERS.png) |
+| Employee — My Requests | ![My Requests](screenshots/EMP-%20My%20Requests%20—%20ERS.png) |
+| Manager Dashboard | ![Manager Dashboard](screenshots/Manager%20Dashboard%20—%20ERS.png) |
+| Department Requests | ![Department Requests](screenshots/Department%20Requests%20—%20ERS.png) |
+| Admin Dashboard | ![Admin Dashboard](screenshots/Admin%20Dashboard.png) |
+| Employees Management | ![Employees](screenshots/Employees%20—%20ERS.png) |
+| Notifications | ![Notifications](screenshots/Notifications.png) |
+| Reports | ![Reports](screenshots/Reports%20—%20ERS.png) |
+| Email Notification | ![Email](screenshots/mail%20—%20ERS.png) |
 

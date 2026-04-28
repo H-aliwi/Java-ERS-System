@@ -308,10 +308,6 @@ All employee and manager actions, plus:
 
 ## Screenshots
 
-> Replace the paths below with actual screenshots once the app is running.
-
-## Screenshots
-
 | Screen | Preview |
 |---|---|
 | Login | ![Login](screenshots/Login.png) |
